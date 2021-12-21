@@ -1,0 +1,59 @@
+commit 43979662a8b15d5f9b45b6f7ca864887431a465e
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Thu Nov 18 18:19:12 2021 -0500
+
+    memory issues resolved
+
+commit 5450c2f4aaaa2908b9fa44337479b305f1e97e98
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Thu Nov 18 16:18:54 2021 -0500
+
+    implementation completed
+
+commit c3cacbdbf153069adf2f49c1684bc9b82add43cd
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Thu Nov 18 14:43:49 2021 -0500
+
+    decoding lookup table and binary code generated
+
+commit 7e4d82e7b1647574e7f92b1a9d8a56e6f067786d
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Thu Nov 18 13:17:32 2021 -0500
+
+    encoding implementation complete
+
+commit 0ca128057f6513f8b68011dfbcb97095dc88e3c4
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Wed Nov 17 23:59:06 2021 -0500
+
+    worked on unsingned int
+
+commit 1647bcfca719eb3f88341dbe6bfe9097f1520b4d
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Wed Nov 17 21:49:10 2021 -0500
+
+    lut made
+
+commit 724e7d4ea8a534bd469af60b25f4bf21521176f0
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Wed Nov 17 17:38:54 2021 -0500
+
+    basic encoding and decoding achieved
+
+commit 83ae861f3360e2b1227ca5bacc6a40b10550dd4e
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Tue Nov 16 22:54:09 2021 -0500
+
+    basic encoding achieved on sample data
+
+commit 94682eafba2b5e7542e0590fc6efe0374501f807
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Tue Nov 16 18:28:24 2021 -0500
+
+    input output basic implementation
+
+commit 483ce3da7341bd8d4de9f11f816878515442b1f7
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Tue Nov 16 16:42:47 2021 -0500
+
+    project provided materials
